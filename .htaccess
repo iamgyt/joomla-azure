@@ -79,4 +79,4 @@ RewriteRule .* index.php [L]
 #
 ## End - Joomla! core SEF Section.
 
-DirectoryIndex index.php
+#DirectoryIndex index.php
